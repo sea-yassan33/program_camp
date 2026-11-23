@@ -12,3 +12,11 @@
   - 取り出し
   - for文
   - 文字連結
+
+### Added
+- Kotlin_camp
+  - README（開発環境）
+- TypeScript_camp
+- - README（開発環境）
+  - 名前を受け取り
+  - 2つの数値を足す関数
